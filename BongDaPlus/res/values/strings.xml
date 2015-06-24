@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name"><font color="white"> Bóng đá +</font></string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    
+    <string-array name="nav_drawer_items"> 
+ 
+    <!-- Nav Drawer Menu Items -->
+    	<item >Tin tức</item>
+        <item >Tìm kiếm tin</item>
+        <item >Kết quả thi đấu</item>
+        <item >Bảng xếp hạng</item>
+        <item >Lịch thi đấu</item>
+        <item >Bóng đá cười</item>
+        <item >Thoát</item>
+    </string-array>
+    
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/tintuc</item>
+        <item>@drawable/timkiem</item>
+        <item>@drawable/ketqua</item>
+        <item>@drawable/bangxephang</item>
+        <item>@drawable/lichthidau</item>
+        <item>@drawable/bongdacuoi</item>
+        <item>@drawable/exit</item>
+    </array>
+    
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+</resources>

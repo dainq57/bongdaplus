@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#7DA7D9</color>
+    <color name="list_background_pressed">#0054A6</color>
+    <color name="list_divider">#fff</color>
+    <color name="background_actionbar">#0072BC</color>
+    <color name="news_background">#fff</color>
+    <color name="news_background_pressed">#7DA7D9</color>
+    <color name="list_border">#0054A6</color>
+    <color name="item_activated">#00CC33</color>
+    <color name="tabs">#fff</color>
+    <color name="black">#030303</color>
+    
+</resources>

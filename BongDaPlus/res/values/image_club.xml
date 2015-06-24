@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="rank_england">
+        <item>@drawable/arsenal</item>
+        <item>@drawable/aston_villa</item>
+        <item>@drawable/burnley</item>
+        <item>@drawable/chelsea</item>
+        <item>@drawable/crystal_palace</item>
+        <item>@drawable/everton</item>
+        <item>@drawable/hull_city</item>
+        <item>@drawable/leicester_city</item>
+        <item>@drawable/liverpool</item>
+        <item>@drawable/manchester_city</item>
+        <item>@drawable/manchester_united</item>
+        <item>@drawable/newcastle_united</item>
+        <item>@drawable/queens_park_rangers</item>
+        <item>@drawable/southampton</item>
+        <item>@drawable/stoke_city</item>
+        <item>@drawable/sunderland</item>
+        <item>@drawable/swansea_city</item>
+        <item>@drawable/tottenham_hotspur</item>
+        <item>@drawable/west_bromwich_albion</item>
+        <item>@drawable/west_ham_united</item>
+    </array>
+    <array name="rank_spain">
+        <item>@drawable/almeria</item>
+        <item>@drawable/athletic_bilbao</item>
+        <item>@drawable/atletico_madrid</item>
+        <item>@drawable/barcelona</item>
+        <item>@drawable/celta_vigo</item>
+        <item>@drawable/cordoba</item>
+        <item>@drawable/deportivo_la_coruna</item>
+        <item>@drawable/eibar</item>
+        <item>@drawable/elche</item>
+        <item>@drawable/espanyol</item>
+        <item>@drawable/getafe</item>
+        <item>@drawable/granada</item>
+        <item>@drawable/levante</item>
+        <item>@drawable/malaga</item>
+        <item>@drawable/rayo_vallecano</item>
+        <item>@drawable/real_madrid</item>
+        <item>@drawable/real_sociedad</item>
+        <item>@drawable/sevilla</item>
+        <item>@drawable/valencia</item>
+        <item>@drawable/villarreal</item>
+    </array>
+    <array name="rank_france">
+        <item>@drawable/as_saint_etienne</item>
+        <item>@drawable/en_avant_guingamp</item>
+        <item>@drawable/evian_thonon_gaillard</item>
+        <item>@drawable/girondins_bordeaux</item>
+        <item>@drawable/lille_osc</item>
+        <item>@drawable/lorient</item>
+        <item>@drawable/metz</item>
+        <item>@drawable/monaco</item>
+        <item>@drawable/montpellier</item>
+        <item>@drawable/nantes</item>
+        <item>@drawable/ogc_nice</item>
+        <item>@drawable/olympique_lyonnais</item>
+        <item>@drawable/olympique_marseille</item>
+        <item>@drawable/paris_saint_germain</item>
+        <item>@drawable/rc_lens</item>
+        <item>@drawable/sc_bastia</item>
+        <item>@drawable/sm_caen</item>
+        <item>@drawable/stade_de_reims</item>
+        <item>@drawable/stade_rennais</item>
+        <item>@drawable/toulouse</item>
+    </array>
+    <array name="rank_germany">
+        <item>@drawable/augsburg</item>
+        <item>@drawable/bayer_04_leverkusen</item>
+        <item>@drawable/bayern_munchen</item>
+        <item>@drawable/borussia_dortmund</item>
+        <item>@drawable/eintracht_frankfurt</item>
+        <item>@drawable/freiburg</item>
+        <item>@drawable/hamburger</item>
+        <item>@drawable/hannover_96</item>
+        <item>@drawable/hertha_bsc_berlin</item>
+        <item>@drawable/hoffenheim</item>
+        <item>@drawable/koln</item>
+        <item>@drawable/cologne</item>
+        <item>@drawable/borussia_moenchengladbach</item>
+        <item>@drawable/mainz_05</item>
+        <item>@drawable/nuremberg</item>
+        <item>@drawable/paderborn</item>
+        <item>@drawable/schalke_04</item>
+        <item>@drawable/stuttgart</item>
+        <item>@drawable/werder_bremen</item>
+        <item>@drawable/wolfsburg</item>
+    </array>
+
+</resources>
